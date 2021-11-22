@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Werthis
-- 👀 I’m used to learn Python, but I am interested in GUI so...
+- 👀 I’m used to learn Python, but I am more interested in GUI so...
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me lukaszstawecki@gmail.com
 
